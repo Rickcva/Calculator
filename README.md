@@ -2,7 +2,7 @@
  <h2 align="center">Projetei essa calculadora com ajuda do canal AsmrProg</h2>
  
 <p align="center">
- <img alt="Preview" src=".img/calculator.jpeg">
+ <img alt="Preview" src=".img/calculator">
 </p>
  <h3 align="center">Tecnologias usadas</h3>
 
